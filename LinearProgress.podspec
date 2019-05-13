@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "LinearProgress"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "Simple progress bar for iOS"
   s.homepage     = "https://github.com/DuanLangC/LinearProgress"
   s.license      = "MIT"
