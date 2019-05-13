@@ -5,9 +5,9 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/DuanLangC/LinearProgress"
   s.license      = "MIT"
   s.author             = { "Eldis" => "duanlangc@gmail.com" }
-  s.platform     = :ios, "12.1"
+  s.platform     = :ios, "10.0"
   s.source       = { :git => "https://github.com/DuanLangC/DrawerController.git", :tag => s.version }
-  s.source_files  = "Sources/*.swift"
+  s.source_files  = "Source/*"
   s.requires_arc = true
   s.swift_version = "4.2"
 end
